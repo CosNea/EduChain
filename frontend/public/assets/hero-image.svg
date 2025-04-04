@@ -1,0 +1,6 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M300 150C300 232.843 232.843 300 150 300C67.1573 300 0 232.843 0 150C0 67.1573 67.1573 0 150 0C232.843 0 300 67.1573 300 150Z" fill="white" fill-opacity="0.1"/>
+  <path d="M400 150C400 232.843 332.843 300 250 300C167.157 300 100 232.843 100 150C100 67.1573 167.157 0 250 0C332.843 0 400 67.1573 400 150Z" fill="white" fill-opacity="0.1"/>
+  <path d="M200 50L250 150L200 250L150 150L200 50Z" fill="white" fill-opacity="0.2"/>
+  <circle cx="200" cy="150" r="20" fill="white"/>
+</svg> 

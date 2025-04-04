@@ -1,0 +1,32 @@
+{
+  "name": "educhain-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.0.18",
+    "@web3-storage/w3up-client": "^17.2.0",
+    "autoprefixer": "^10.4.16",
+    "axios": "^1.8.4",
+    "ethers": "^6.7.1",
+    "next": "^15.2.4",
+    "postcss": "^8.4.31",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "tailwindcss": "^3.3.5",
+    "web3.storage": "^4.5.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "@types/react": "^18.2.38",
+    "@types/react-dom": "^18.2.15",
+    "eslint": "^8.54.0",
+    "eslint-config-next": "14.0.3",
+    "typescript": "^5.3.2"
+  }
+}
